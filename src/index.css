@@ -1,0 +1,24 @@
+*{
+  margin:20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.IMG{
+  position:absolute;
+  top:22%;
+  left:55%;
+  width: 200px;
+  height: 200px;
+}
+input{
+  text-align: center;
+  width: 140px;
+}
+img{
+  border:3px solid;
+  border-radius: 4%;
+  padding: 8px;
+  opacity: 0.9;
+}
+img:hover{
+  opacity:1;
+}
